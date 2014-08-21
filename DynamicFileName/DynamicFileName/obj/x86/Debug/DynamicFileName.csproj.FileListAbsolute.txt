@@ -1,0 +1,13 @@
+c:\users\jsarnik\documents\visual studio 2010\Projects\DynamicFileName\DynamicFileName\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jsarnik\documents\visual studio 2010\Projects\DynamicFileName\DynamicFileName\obj\x86\Debug\DynamicFileName.Form1.resources
+c:\users\jsarnik\documents\visual studio 2010\Projects\DynamicFileName\DynamicFileName\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jsarnik\documents\visual studio 2010\Projects\DynamicFileName\DynamicFileName\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jsarnik\Documents\Visual Studio 2010\Projects\DynamicFileName\DynamicFileName\bin\Debug\DynamicFileNamer.exe.manifest
+C:\Users\jsarnik\Documents\Visual Studio 2010\Projects\DynamicFileName\DynamicFileName\bin\Debug\DynamicFileNamer.application
+C:\Users\jsarnik\Documents\Visual Studio 2010\Projects\DynamicFileName\DynamicFileName\bin\Debug\DynamicFileNamer.exe
+C:\Users\jsarnik\Documents\Visual Studio 2010\Projects\DynamicFileName\DynamicFileName\bin\Debug\DynamicFileNamer.pdb
+C:\Users\jsarnik\Documents\Visual Studio 2010\Projects\DynamicFileName\DynamicFileName\obj\x86\Debug\DynamicFileNamer.Properties.Resources.resources
+C:\Users\jsarnik\Documents\Visual Studio 2010\Projects\DynamicFileName\DynamicFileName\obj\x86\Debug\DynamicFileNamer.exe.manifest
+C:\Users\jsarnik\Documents\Visual Studio 2010\Projects\DynamicFileName\DynamicFileName\obj\x86\Debug\DynamicFileNamer.application
+C:\Users\jsarnik\Documents\Visual Studio 2010\Projects\DynamicFileName\DynamicFileName\obj\x86\Debug\DynamicFileNamer.exe
+C:\Users\jsarnik\Documents\Visual Studio 2010\Projects\DynamicFileName\DynamicFileName\obj\x86\Debug\DynamicFileNamer.pdb

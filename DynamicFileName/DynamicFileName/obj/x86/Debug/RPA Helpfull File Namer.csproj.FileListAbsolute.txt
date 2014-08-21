@@ -1,0 +1,14 @@
+C:\Users\jsarnik\documents\visual studio 2010\Projects\DynamicFileName\DynamicFileName\bin\Debug\Icon1.ico
+C:\Users\jsarnik\documents\visual studio 2010\Projects\DynamicFileName\DynamicFileName\bin\Debug\RPA Helpfull File Namer.exe.manifest
+C:\Users\jsarnik\documents\visual studio 2010\Projects\DynamicFileName\DynamicFileName\bin\Debug\RPA Helpfull File Namer.application
+C:\Users\jsarnik\documents\visual studio 2010\Projects\DynamicFileName\DynamicFileName\bin\Debug\RPA Helpfull File Namer.exe
+C:\Users\jsarnik\documents\visual studio 2010\Projects\DynamicFileName\DynamicFileName\bin\Debug\RPA Helpfull File Namer.pdb
+C:\Users\jsarnik\documents\visual studio 2010\Projects\DynamicFileName\DynamicFileName\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jsarnik\documents\visual studio 2010\Projects\DynamicFileName\DynamicFileName\obj\x86\Debug\DynamicFileName.Form1.resources
+C:\Users\jsarnik\documents\visual studio 2010\Projects\DynamicFileName\DynamicFileName\obj\x86\Debug\DynamicFileNamer.Properties.Resources.resources
+C:\Users\jsarnik\documents\visual studio 2010\Projects\DynamicFileName\DynamicFileName\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jsarnik\documents\visual studio 2010\Projects\DynamicFileName\DynamicFileName\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jsarnik\documents\visual studio 2010\Projects\DynamicFileName\DynamicFileName\obj\x86\Debug\RPA Helpfull File Namer.exe.manifest
+C:\Users\jsarnik\documents\visual studio 2010\Projects\DynamicFileName\DynamicFileName\obj\x86\Debug\RPA Helpfull File Namer.application
+C:\Users\jsarnik\documents\visual studio 2010\Projects\DynamicFileName\DynamicFileName\obj\x86\Debug\RPA Helpfull File Namer.exe
+C:\Users\jsarnik\documents\visual studio 2010\Projects\DynamicFileName\DynamicFileName\obj\x86\Debug\RPA Helpfull File Namer.pdb
